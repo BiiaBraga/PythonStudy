@@ -10,6 +10,7 @@ Strings são textos que estão dentro de aspas
 
 '''
 Tipagem dinâmica significa que o Python já sabe qual é o tipo da informação que vc está passando para ele
+Tipagem forte significa que o Python identifica erros de tipo
 '''
 
 print(1234) # O Python já sabe que o argumento é um int
